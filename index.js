@@ -14,7 +14,7 @@ $(document).ready(function () {
             $("#form").load("main.html");
         }
         else {
-            alert("enter correct data")
+            alert("Username or Password is incorrect")
         };
     });
 });
